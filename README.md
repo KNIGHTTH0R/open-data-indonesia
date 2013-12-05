@@ -1,9 +1,18 @@
-open-data-indonesia
+Indonesia Open Data (Data Terbuka)
 ===================
 
 Kumpulan Sumber Data Terbuka (Open Data) Indonesia
 
-Umum
+Sekilas
+-------
+
+Apa itu data terbuka? Data terbuka adalah terjemah bebas dari penulis
+untuk data yang tersedia secara publik. Keterbukaan data sangat
+berguna bagi para peneliti/akademisi/praktisi yang ingin melihat
+secara lebih mendalam tentang Indonesia.
+
+
+Kategori
 ----
 - Penduduk
 
